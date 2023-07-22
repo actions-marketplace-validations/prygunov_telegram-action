@@ -1,4 +1,4 @@
-name: 'Telegram Message Notify ARM64'
+name: 'Telegram Message Notifier ARM64'
 description: 'Sending a Telegram message'
 author: 'Bo-Yi Wu'
 inputs:
